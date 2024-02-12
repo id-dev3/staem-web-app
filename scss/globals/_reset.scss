@@ -4,7 +4,8 @@ html{
 
 body{
     overflow-x: hidden;
-    background: #1B2837;
+    // background: #1B2837;
+    background: url('/images/Ellipse.svg') top center / cover no-repeat, #1B2837;
     font-family: 'Noto Sans', sans-serif;
 }
 
